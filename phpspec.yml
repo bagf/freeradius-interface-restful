@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: freeradius
+        psr4_prefix: freeradius
+        src_path: app
